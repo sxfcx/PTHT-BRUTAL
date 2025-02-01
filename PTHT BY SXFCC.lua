@@ -5,5 +5,6 @@ return {
 833580, -- Rapz 2hs discord user ID 1162163740398059560
 180854, -- skylark user id 758656384161415178
 139256, -- RAYJET TTT
-290847 -- Jersss
+290847, -- Jersss
+738077
 } 
