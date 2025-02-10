@@ -7,5 +7,6 @@ return {
 139256, -- RAYJET TTT
 290847, -- Jersss
 738077, -- Kaaf
-887206 -- Kaaf alt INVENTOR
+887206, -- Kaaf alt INVENTOR
+94626 -- GRAY
 } 
