@@ -8,5 +8,6 @@ return {
 290847, -- Jersss
 738077, -- Kaaf
 887206, -- Kaaf alt INVENTOR
-94626 -- GRAY
+94626, -- GRAY
+514984 -- Bo3
 } 
