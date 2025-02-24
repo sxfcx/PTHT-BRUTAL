@@ -10,5 +10,6 @@ return {
 887206, -- Kaaf alt INVENTOR
 94626, -- GRAY
 514984, -- Bo3
-916078 -- Repz
+916078, -- Repz
+557734 -- Rizz
 } 
