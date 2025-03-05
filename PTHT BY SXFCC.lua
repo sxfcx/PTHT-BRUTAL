@@ -12,5 +12,6 @@ return {
 514984, -- Bo3
 916078, -- Repz
 557734, -- Rizz
-13887 -- Dinaorta
+13887, -- Dinaorta
+902259 -- Vinn
 } 
