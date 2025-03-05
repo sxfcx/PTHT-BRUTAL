@@ -11,5 +11,6 @@ return {
 94626, -- GRAY
 514984, -- Bo3
 916078, -- Repz
-557734 -- Rizz
+557734, -- Rizz
+13887 -- Dinaorta
 } 
