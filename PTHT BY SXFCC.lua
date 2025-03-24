@@ -15,5 +15,6 @@ return {
 13887, -- Dinaorta
 902259, -- Vinn
 500062, -- Pemeain Illegal
-933107 -- Elbara
+933107, -- Elbara
+789653 -- Jaroot
 } 
