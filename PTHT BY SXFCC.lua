@@ -16,5 +16,6 @@ return {
 902259, -- Vinn
 500062, -- Pemeain Illegal
 933107, -- Elbara
-789653 -- Jaroot
+789653, -- Jaroot
+864212 -- Apalah
 } 
